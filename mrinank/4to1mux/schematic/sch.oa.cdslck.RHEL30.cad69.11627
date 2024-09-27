@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      student
+HostName                       cad69
+ProcessIdentifier              11627
+ProcessCreationTime_UTC        1727412578
+ProcessCreationTime_Readable   Fri Sep 27 10:19:38 2024 IST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/student/22BEC1258/mrinank/4to1mux/schematic/sch.oa.cdslck
+TimeEditLocked                 Fri Sep 27 10:19:50 2024 IST

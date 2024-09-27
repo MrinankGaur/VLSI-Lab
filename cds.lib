@@ -1,3 +1,4 @@
 SOFTINCLUDE /home/install/IC618/share/cdssetup/cds.lib
 #Removed by ddDeleteObj: DEFINE mrinank /home/student/22BEC1258/mrinank
 DEFINE mrinank /home/student/22BEC1258/mrinank
+DEFINE avTech /home/install/ASSURA41/tools.lnx86/assura/etc/avtech/avTech
